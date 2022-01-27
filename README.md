@@ -9,4 +9,3 @@ Newline 1
 
 Another new line
 
-3:20

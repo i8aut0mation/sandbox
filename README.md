@@ -6,7 +6,7 @@ James added this line
 I've edited in a bit here
 Newline 1
 
-
+new addition to main
 
 
 testing fetch / commit

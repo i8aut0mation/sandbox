@@ -7,7 +7,7 @@ I've edited in a bit here
 Newline 1
 
 
-Another new line
+
 
 testing fetch / commit
 
